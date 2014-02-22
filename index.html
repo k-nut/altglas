@@ -6,7 +6,7 @@
 		<link rel="stylesheet" href="filters.css" />
 		<script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
 		<style>
-			* { 
+			* {
 				box-sizing: border-box;
 				margin: 0 0;
 			}
@@ -89,7 +89,6 @@
 				<option value="14197">14197</option>
 				<option value="14199">14199</option>
 			</select>
-			<a href="#" onclick="filterPoints()">Filter</a>
 
 		</div>
 
@@ -154,7 +153,7 @@
 					delete content.data;
 
 					var template = _.template($("#tooltip_tmpl").html());
-					return template(content);  
+					return template(content);
 				}
 
 			</script>
