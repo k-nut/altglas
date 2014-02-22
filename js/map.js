@@ -15,6 +15,19 @@ $( document ).ready(function() {
       add_containers(containers);
   });
 
+
+  // Districts of the city
+  var ortsteile;
+  $.getJSON("data/berlin-districts.geojson", function(data) {
+      ortsteile = data;
+  })
+  .done(function(){
+      L.geoJson(ortsteile, { style: {
+        fillColor: "hotPink"
+      }}).addTo(map);
+  });
+
+
   var filterBySupplier = function(container){
       var filterSupplier = $("#supplier").val();
       if (filterSupplier === ""){

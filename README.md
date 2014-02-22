@@ -36,8 +36,10 @@ http://localhost:8000
 ## References
 
 * [Open Data Berlin: Standorte von Altglascontainern auf öffentlichem Straßenland in Charlottenburg-Wilmersdorf][glass-container-cw]
+* [Districts of Berlin, preprocessed by Felix Ebert][felixs-berlin-bezirke]
 
 
 
 [opendataday-2014-berlin]: http://de.opendataday.org/berlin/
 [glass-container-cw]: http://daten.berlin.de/datensaetze/standorte-von-altglascontainern-auf-%C3%B6ffentlichem-stra%C3%9Fenland-charlottenburg-wilmersdorf
+[felixs-berlin-bezirke]: http://felixebert.de/energyhackday/data/Berlin-Bezirke.geojson
