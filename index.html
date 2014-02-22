@@ -14,12 +14,28 @@
 				display: block;
 				background: blue;
 			}
+
+			#filter {
+				position: absolute;
+				right: 20px;
+				top: 20px;
+				display: block;
+				z-index: 2000;
+				background: white;
+			}
+
 		</style>
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 	</head>
 	<body>
 		<div id=map>
 		</div>
+		<div id=filter>
+			<h2>Filter</h2>
+			<a href="#" onclick="filterPoints()">Filter</a>
+
+		</div>
+
 		<script>
 			// create a map in the "map" div, set the view to a given place and zoom
 			var map = L.map('map').setView([52.505, 13.25], 12);
@@ -33,21 +49,24 @@
 				containers = data;
 			})
 			.done(function(){
-				add_containers();
+				add_containers(containers);
 			});
 
-			var Container = L.Icon.extend({
-				options: {
-					iconUrl: './green.png',
-					iconSize: [24, 24]
-				}
-			});
 
-			function add_containers(){
-				L.geoJson(containers, {
-					style: function (feature) {
-						return {icon: Container};
-					},
+			function filterPoints(){
+				var filteredContainers = [];
+				$.each(containers.features, function(index, container) {
+					if (container.properties.data.braun === ""){
+						filteredContainers.push(container)
+					}
+				});
+				add_containers(filteredContainers);
+			}
+
+			var allContainers = [];
+			function add_containers(data){
+				map.removeLayer(allContainers);
+				allContainers = L.geoJson(data, {
 					onEachFeature: function (feature, layer) {
 						layer.bindPopup(feature.properties.description + '<br />');
 					}
