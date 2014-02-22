@@ -15,5 +15,6 @@
 
 .filters select {
   width: 10em;
+  margin-right: 1em;
 }
 
