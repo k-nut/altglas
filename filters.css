@@ -1,0 +1,19 @@
+.filters {
+  padding: 1em;
+  background: rgba(255,255,255,0.85) !important;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+}
+
+.filters h2 {
+  margin-bottom: 0.5em;
+}
+
+.filters label {
+  margin-right: 1em;
+}
+
+.filters select {
+  width: 10em;
+}
+

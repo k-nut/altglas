@@ -3,6 +3,7 @@
 		<meta charset="utf-8" />
 		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
 		<link rel="stylesheet" href="popup.css" />
+		<link rel="stylesheet" href="filters.css" />
 		<script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
 		<style>
 			* { 
@@ -53,12 +54,12 @@
 	<body>
 		<div id=map>
 		</div>
-		<div id=filter>
+		<div id="filter" class="filters">
 			<h2>Filter</h2>
 			<input type="checkbox" id="brown" onclick="filterPoints()"/> <label for="brown"> Braunglas </label>
 			<input type="checkbox" id="white" onclick="filterPoints()"/> <label for="white"> Weißglas </label>
 			<input type="checkbox" id="green" onclick="filterPoints()"/> <label for="green"> Grünglas </label>
-			<select id="plz" onchange="filterPoints()">
+			PLZ: <select id="plz" onchange="filterPoints()">
 				<option value="-1">-----</option>
 				<option value="10585">10585</option>
 				<option value="10587">10587</option>
