@@ -27,26 +27,26 @@
 		</style>
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 		<script src="js/underscore.js"></script>
-		
+
 		<script type="text/html" id="tooltip_tmpl">
-		 <h2> <%=title %> </h2>
-		 PLZ: <%=plz %> <br>
-		 Aufgestellt von: <%=aufsteller%>
-		 <% if(bunt>0) { %>
-			<br>its bunt!!
-		 <% }%>
-			
+			<h2> <%=title %> </h2>
+			PLZ: <%=plz %> <br>
+			Aufgestellt von: <%=aufsteller%>
+			<% if(bunt>0) { %>
+				<br>its bunt!!
+				<% }%>
+
 		</script>
-		
+
 	</head>
 	<body>
 		<div id=map>
 		</div>
 		<div id=filter>
 			<h2>Filter</h2>
-			<input type="checkbox" id="brown" /> <label for="brown"> Braunglas </label>
-			<input type="checkbox" id="white" /> <label for="white"> Weißglas </label>
-			<input type="checkbox" id="green" /> <label for="green"> Grünglas </label>
+			<input type="checkbox" id="brown" onclick="filterPoints()"/> <label for="brown"> Braunglas </label>
+			<input type="checkbox" id="white" onclick="filterPoints()"/> <label for="white"> Weißglas </label>
+			<input type="checkbox" id="green" onclick="filterPoints()"/> <label for="green"> Grünglas </label>
 			<select id="plz" onchange="filterPoints()">
 				<option value="-1">-----</option>
 				<option value="10585">10585</option>
@@ -102,23 +102,25 @@
 				var filterBrown = $("#brown").prop("checked");
 				var filterWhite = $("#white").prop("checked");
 				var filterGreen = $("#green").prop("checked");
+				var colorFilters = {"braun": filterBrown, "weiss": filterWhite, "gruen": filterGreen};
 				var filterPlz = $("#plz").val();
 
 				var filteredContainers = [];
 				$.each(containers.features, function(index, container) {
-					if (filterPlz === "-1" || container.properties.data.plz === filterPlz){
+					if (filterPlz === "-1" || container.properties.plz === filterPlz){
 						filteredContainers.push(container)
 					}
 				});
 
 				$.each(filteredContainers, function(index, container) {
 					if (container !== undefined){
-						if (filterBrown && container.properties.data.braun === ""){
-							filteredContainers.splice(index, 1);
+						for (color in colorFilters){
+							if (colorFilters[color] && container.properties[color] === ""){
+								filteredContainers.splice(index, 1);
+							}
 						}
 					}
 				});
-				console.log(filteredContainers.length);
 
 				add_containers(filteredContainers);
 			}
@@ -129,22 +131,21 @@
 				allContainers = L.geoJson(data, {
 					onEachFeature: function (feature, layer) {
 						layer.bindPopup(data2html(feature));
-					}
+						}
 
-				}).addTo(map);
-			}
-			
-			var data2html = function(item){
-				// flatten the json
-				content = _.extend(_.extend(item,item.properties.data),item.properties);
-				delete content.properties;
-				
-				var template = _.template($("#tooltip_tmpl").html());
-			
-				return template(content);  
-			}
-			
-		</script>
+					}).addTo(map);
+				}
 
-	</body>
-</html>
+				var data2html = function(item){
+					// flatten the json
+					var content = _.extend(item.properties,item.properties.data);
+					delete content.data;
+
+					var template = _.template($("#tooltip_tmpl").html());
+					return template(content);  
+				}
+
+			</script>
+
+		</body>
+	</html>
