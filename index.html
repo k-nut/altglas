@@ -1,5 +1,6 @@
 <html>
 	<head>
+		<meta charset="utf-8" />
 		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
 		<script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
 		<style>
@@ -12,7 +13,6 @@
 				width: 100%;
 				height: 100%;
 				display: block;
-				background: blue;
 			}
 
 			#filter {
@@ -32,6 +32,39 @@
 		</div>
 		<div id=filter>
 			<h2>Filter</h2>
+			<input type="checkbox" id="brown" /> <label for="brown"> Braunglas </label>
+			<input type="checkbox" id="white" /> <label for="white"> Weißglas </label>
+			<input type="checkbox" id="green" /> <label for="green"> Grünglas </label>
+			<select id="plz" onchange="filterPoints()">
+				<option value="-1">-----</option>
+				<option value="10585">10585</option>
+				<option value="10587">10587</option>
+				<option value="10589">10589</option>
+				<option value="10625">10625</option>
+				<option value="10627">10627</option>
+				<option value="10629">10629</option>
+				<option value="10707">10707</option>
+				<option value="10709">10709</option>
+				<option value="10711">10711</option>
+				<option value="10713">10713</option>
+				<option value="10715">10715</option>
+				<option value="10717">10717</option>
+				<option value="10719">10719</option>
+				<option value="10779">10779</option>
+				<option value="10789">10789</option>
+				<option value="10825">10825</option>
+				<option value="13627">13627</option>
+				<option value="13629">13629</option>
+				<option value="14050">14050</option>
+				<option value="14052">14052</option>
+				<option value="14055">14055</option>
+				<option value="14057">14057</option>
+				<option value="14059">14059</option>
+				<option value="14193">14193</option>
+				<option value="14195">14195</option>
+				<option value="14197">14197</option>
+				<option value="14199">14199</option>
+			</select>
 			<a href="#" onclick="filterPoints()">Filter</a>
 
 		</div>
@@ -54,12 +87,27 @@
 
 
 			function filterPoints(){
+				var filterBrown = $("#brown").prop("checked");
+				var filterWhite = $("#white").prop("checked");
+				var filterGreen = $("#green").prop("checked");
+				var filterPlz = $("#plz").val();
+
 				var filteredContainers = [];
 				$.each(containers.features, function(index, container) {
-					if (container.properties.data.braun === ""){
+					if (filterPlz === "-1" || container.properties.data.plz === filterPlz){
 						filteredContainers.push(container)
 					}
 				});
+
+				$.each(filteredContainers, function(index, container) {
+					if (container !== undefined){
+						if (filterBrown && container.properties.data.braun === ""){
+							filteredContainers.splice(index, 1);
+						}
+					}
+				});
+				console.log(filteredContainers.length);
+
 				add_containers(filteredContainers);
 			}
 
