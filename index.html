@@ -26,6 +26,18 @@
 
 		</style>
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/underscore.js"></script>
+		
+		<script type="text/html" id="tooltip_tmpl">
+		 <h2> <%=title %> </h2>
+		 PLZ: <%=plz %> <br>
+		 Aufgestellt von: <%=aufsteller%>
+		 <% if(bunt>0) { %>
+			<br>its bunt!!
+		 <% }%>
+			
+		</script>
+		
 	</head>
 	<body>
 		<div id=map>
@@ -68,11 +80,22 @@
 				map.removeLayer(allContainers);
 				allContainers = L.geoJson(data, {
 					onEachFeature: function (feature, layer) {
-						layer.bindPopup(feature.properties.description + '<br />');
+						layer.bindPopup(data2html(feature));
 					}
 
 				}).addTo(map);
 			}
+			
+			var data2html = function(item){
+				// flatten the json
+				content = _.extend(_.extend(item,item.properties.data),item.properties);
+				delete content.properties;
+				
+				var template = _.template($("#tooltip_tmpl").html());
+			
+				return template(content);  
+			}
+			
 		</script>
 
 	</body>
