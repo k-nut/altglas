@@ -1,0 +1,60 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+		<script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
+		<style>
+			* { 
+				box-sizing: border-box;
+				margin: 0 0;
+			}
+
+			#map {
+				width: 100%;
+				height: 100%;
+				display: block;
+				background: blue;
+			}
+		</style>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	</head>
+	<body>
+		<div id=map>
+		</div>
+		<script>
+			// create a map in the "map" div, set the view to a given place and zoom
+			var map = L.map('map').setView([52.505, 13.25], 12);
+
+			// add an OpenStreetMap tile layer
+			L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+				attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+			}).addTo(map);
+			var containers;
+			$.getJSON("/all.gjson", function(data) {
+				containers = data;
+			})
+			.done(function(){
+				add_containers();
+			});
+
+			var Container = L.Icon.extend({
+				options: {
+					iconUrl: './green.png',
+					iconSize: [24, 24]
+				}
+			});
+
+			function add_containers(){
+				L.geoJson(containers, {
+					style: function (feature) {
+						return {icon: Container};
+					},
+					onEachFeature: function (feature, layer) {
+						layer.bindPopup(feature.properties.description + '<br />');
+					}
+
+				}).addTo(map);
+			}
+		</script>
+
+	</body>
+</html>
