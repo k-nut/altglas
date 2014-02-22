@@ -37,18 +37,18 @@ ul {
 }
 
 .container-brown {
-  background:url(gfx/ic_altglas_container_brown.png) -10px 0 no-repeat;
+  background:url(../gfx/ic_altglas_container_brown.png) -10px 0 no-repeat;
 }
 
 .container-green {
-  background:url(gfx/ic_altglas_container_green.png) -10px 0 no-repeat;
+  background:url(../gfx/ic_altglas_container_green.png) -10px 0 no-repeat;
 }
 
 .container-white {
-  background:url(gfx/ic_altglas_container_white.png) -10px 0 no-repeat;
+  background:url(../gfx/ic_altglas_container_white.png) -10px 0 no-repeat;
 }
 
 .container-colored {
-  background:url(gfx/ic_altglas_container_colored.png) -10px 0 no-repeat;
+  background:url(../gfx/ic_altglas_container_colored.png) -10px 0 no-repeat;
 }
 
