@@ -8,7 +8,7 @@ $( document ).ready(function() {
       attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
   var containers;
-  $.getJSON("/all.gjson", function(data) {
+  $.getJSON("data/all.gjson", function(data) {
       containers = data;
   })
   .done(function(){
