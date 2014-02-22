@@ -89,6 +89,11 @@
 				<option value="14197">14197</option>
 				<option value="14199">14199</option>
 			</select>
+			<select id="supplier" onchange="filterPoints()">
+				<option value="">------</option>
+				<option value="Karl Meyer">Karl Meyer</option>
+				<option value="Berlin Recycling">Berlin Recycling</option>
+			</select>
 
 		</div>
 
@@ -108,6 +113,13 @@
 				add_containers(containers);
 			});
 
+			var filterBySupplier = function(container){
+				var filterSupplier = $("#supplier").val();
+				if (filterSupplier === ""){
+					return true;
+				}
+				return container.properties.aufsteller === filterSupplier;
+			}
 
 			function filterPoints(){
 				var filterBrown = $("#brown").prop("checked");
@@ -115,6 +127,7 @@
 				var filterGreen = $("#green").prop("checked");
 				var colorFilters = {"braun": filterBrown, "weiss": filterWhite, "gruen": filterGreen};
 				var filterPlz = $("#plz").val();
+				
 
 				var filteredContainers = [];
 				$.each(containers.features, function(index, container) {
@@ -132,7 +145,7 @@
 						}
 					}
 				});
-
+				filteredContainers = filteredContainers.filter(filterBySupplier);
 				add_containers(filteredContainers);
 			}
 
