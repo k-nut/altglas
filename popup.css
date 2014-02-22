@@ -1,0 +1,54 @@
+.leaflet-popup-content {
+  font-size: 1.5em;
+  min-width: 400px !important;
+}
+
+.title {
+  font-size: 0.75em;
+  margin: 0.5em 0;
+}
+
+.description {
+  font-size: 1.5em;
+  margin: 0.25em 0;
+}
+
+.supplier {
+  font-size: 0.75em;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.containers {
+  height: 40px;
+}
+
+
+.containers li {
+  display: inline-block;
+  padding: 10px 30px 0px 25px;
+}
+
+.containers li.hidden {
+  display: none;
+}
+
+.container-brown {
+  background:url(gfx/ic_altglas_container_brown.png) -10px 0 no-repeat;
+}
+
+.container-green {
+  background:url(gfx/ic_altglas_container_green.png) -10px 0 no-repeat;
+}
+
+.container-white {
+  background:url(gfx/ic_altglas_container_white.png) -10px 0 no-repeat;
+}
+
+.container-colored {
+  background:url(gfx/ic_altglas_container_colored.png) -10px 0 no-repeat;
+}
+

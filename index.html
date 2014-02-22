@@ -2,6 +2,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+		<link rel="stylesheet" href="popup.css" />
 		<script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
 		<style>
 			* { 
@@ -29,13 +30,23 @@
 		<script src="js/underscore.js"></script>
 
 		<script type="text/html" id="tooltip_tmpl">
-			<h2> <%=title %> </h2>
-			PLZ: <%=plz %> <br>
-			Aufgestellt von: <%=aufsteller%>
-			<% if(bunt>0) { %>
-				<br>its bunt!!
-				<% }%>
-
+			<div class="description"><%= description %></div>
+			<div class="title"><%= title %></div>
+			<ul class="containers">
+				<li class="container-brown <% if (braun === "") { %> hidden<% }%>">
+					<span><%= braun %></span>
+				</li>
+				<li class="container-green <% if (gruen === "") { %> hidden<% }%>">
+					<span><%= gruen %></span>
+				</li>
+				<li class="container-white <% if (weiss === "") { %> hidden<% }%>">
+					<span><%= weiss %></span>
+				</li>
+				<li class="container-colored <% if (bunt === "") { %> hidden<% }%>">
+					<span><%= bunt %></span>
+				</li>
+			</ul>
+			<div class="supplier">Aufsteller: <%= aufsteller %></div>
 		</script>
 
 	</head>
