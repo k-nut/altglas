@@ -44,7 +44,13 @@ function filterPoints(){
 	var filterBrown = $("#brown").prop("checked");
 	var filterWhite = $("#white").prop("checked");
 	var filterGreen = $("#green").prop("checked");
-	var colorFilters = {"braun": filterBrown, "weiss": filterWhite, "gruen": filterGreen};
+	var filterColored = $("#colored").prop("checked");
+	var colorFilters = {
+		"braun": filterBrown,
+		"weiss": filterWhite,
+		"gruen": filterGreen,
+		"bunt": filterColored
+	};
 	var filterPlz = $("#plz").val();
 
 
