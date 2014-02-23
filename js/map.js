@@ -26,7 +26,8 @@ $.getJSON("data/berlin-districts.geojson", function(data) {
 })
 .done(function(){
 	L.geoJson(ortsteile, { style: {
-		fillColor: "hotPink"
+		fillColor: "hotPink",
+		color: "#2E85CB"
 	}}).addTo(map);
 });
 
