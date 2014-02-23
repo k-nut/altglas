@@ -69,45 +69,46 @@
 		</div>
 		<div id="filter" class="filters">
 			<h2>Filter</h2>
-			<input type="checkbox" id="brown" onclick="filterPoints()"/> <label for="brown"> Braunglas </label>
-			<input type="checkbox" id="white" onclick="filterPoints()"/> <label for="white"> Weißglas </label>
-			<input type="checkbox" id="green" onclick="filterPoints()"/> <label for="green"> Grünglas </label>
-			PLZ: <select id="plz" onchange="filterPoints()">
-				<option value="-1">-----</option>
-				<option value="10585">10585</option>
-				<option value="10587">10587</option>
-				<option value="10589">10589</option>
-				<option value="10625">10625</option>
-				<option value="10627">10627</option>
-				<option value="10629">10629</option>
-				<option value="10707">10707</option>
-				<option value="10709">10709</option>
-				<option value="10711">10711</option>
-				<option value="10713">10713</option>
-				<option value="10715">10715</option>
-				<option value="10717">10717</option>
-				<option value="10719">10719</option>
-				<option value="10779">10779</option>
-				<option value="10789">10789</option>
-				<option value="10825">10825</option>
-				<option value="13627">13627</option>
-				<option value="13629">13629</option>
-				<option value="14050">14050</option>
-				<option value="14052">14052</option>
-				<option value="14055">14055</option>
-				<option value="14057">14057</option>
-				<option value="14059">14059</option>
-				<option value="14193">14193</option>
-				<option value="14195">14195</option>
-				<option value="14197">14197</option>
-				<option value="14199">14199</option>
-			</select>
-			Aufsteller: <select id="supplier" onchange="filterPoints()">
-				<option value="">------</option>
-				<option value="Karl Meyer">Karl Meyer</option>
-				<option value="Berlin Recycling">Berlin Recycling</option>
-			</select>
-
+			<div class="filter-controls">
+				<input type="checkbox" id="brown" onclick="filterPoints()"/> <label for="brown"> Braunglas </label>
+				<input type="checkbox" id="white" onclick="filterPoints()"/> <label for="white"> Weißglas </label>
+				<input type="checkbox" id="green" onclick="filterPoints()"/> <label for="green"> Grünglas </label>
+				PLZ: <select id="plz" onchange="filterPoints()">
+					<option value="-1">-----</option>
+					<option value="10585">10585</option>
+					<option value="10587">10587</option>
+					<option value="10589">10589</option>
+					<option value="10625">10625</option>
+					<option value="10627">10627</option>
+					<option value="10629">10629</option>
+					<option value="10707">10707</option>
+					<option value="10709">10709</option>
+					<option value="10711">10711</option>
+					<option value="10713">10713</option>
+					<option value="10715">10715</option>
+					<option value="10717">10717</option>
+					<option value="10719">10719</option>
+					<option value="10779">10779</option>
+					<option value="10789">10789</option>
+					<option value="10825">10825</option>
+					<option value="13627">13627</option>
+					<option value="13629">13629</option>
+					<option value="14050">14050</option>
+					<option value="14052">14052</option>
+					<option value="14055">14055</option>
+					<option value="14057">14057</option>
+					<option value="14059">14059</option>
+					<option value="14193">14193</option>
+					<option value="14195">14195</option>
+					<option value="14197">14197</option>
+					<option value="14199">14199</option>
+				</select>
+				Aufsteller: <select id="supplier" onchange="filterPoints()">
+					<option value="">------</option>
+					<option value="Karl Meyer">Karl Meyer</option>
+					<option value="Berlin Recycling">Berlin Recycling</option>
+				</select>
+			</div>
 		</div>
 
 		</body>
