@@ -27,8 +27,8 @@ http://localhost:8000
 * [Christian Pape](https://github.com/cpape)
 * [Lucas Jacob](https://github.com/LucasJ)
 * [Lukas Schulze](https://github.com/lspcity)
-* Knud Hinnerk Möller
-* [Knut](https://github.com/k-nut)
+* [Knud Möller](http://datalysator.com)
+* [Knut Hühne](https://github.com/k-nut)
 * [Tobias Preuss](https://github.com/johnjohndoe)
 
 
