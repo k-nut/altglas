@@ -1,0 +1,23 @@
+{
+  "name": "altglas",
+  "version": "0.1.0",
+  "homepage": "http://k-nut.github.io/altglas",
+  "authors": [
+    "Knut Hühne <knut@k-nut.eu>"
+  ],
+  "description": "Altglas containers for the Berlin district Charlottenburg-Wilmersdorf",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "leaflet": "~0.7.3",
+    "jquery": "~2.1.3"
+  }
+}
