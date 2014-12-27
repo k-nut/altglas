@@ -2,10 +2,10 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>Altglas Container Map</title>
-		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+		<link rel="stylesheet" href="./bower_components/leaflet/dist/leaflet.css" />
 		<link rel="stylesheet" href="styles/popup.css" />
 		<link rel="stylesheet" href="styles/filters.css" />
-		<script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
+		<script src="./bower_components/leaflet/dist/leaflet.js"></script>
 		<style>
 			* {
 				box-sizing: border-box;
@@ -36,9 +36,9 @@
 			}
 
 		</style>
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		<script src="js/underscore.js"></script>
-		<script src="js/map.js"></script>
+		<script src="./bower_components/jquery/dist/jquery.min.js"></script>
+		<script src="./bower_components/lodash/dist/lodash.min.js"></script>
+		<script src="js/app.js"></script>
 
 		<script type="text/html" id="tooltip_tmpl">
 			<div class="description"><%= description %></div>
@@ -71,11 +71,11 @@
 			<h2>Altglas Container in Berlin</h2>
 			<p>Hier kannst du einschränken, welche Container angezeigt werden.</p>
 			<div class="filter-controls">
-				<input type="checkbox" id="brown" onclick="filterPoints()"/> <label for="brown"> Braunglas </label>
-				<input type="checkbox" id="white" onclick="filterPoints()"/> <label for="white"> Weißglas </label>
-				<input type="checkbox" id="green" onclick="filterPoints()"/> <label for="green"> Grünglas </label>
-				<input type="checkbox" id="colored" onclick="filterPoints()"/> <label for="colored"> Buntglas </label>
-				PLZ: <select id="plz" onchange="filterPoints()">
+				<input type="checkbox" id="brown" /> <label for="brown"> Braunglas </label>
+				<input type="checkbox" id="white" /> <label for="white"> Weißglas </label>
+				<input type="checkbox" id="green" /> <label for="green"> Grünglas </label>
+				<input type="checkbox" id="colored"/> <label for="colored"> Buntglas </label>
+				PLZ: <select id="plz" >
 					<option value="-1">-----</option>
 					<option value="10585">10585</option>
 					<option value="10587">10587</option>
@@ -105,7 +105,7 @@
 					<option value="14197">14197</option>
 					<option value="14199">14199</option>
 				</select>
-				Aufsteller: <select id="supplier" onchange="filterPoints()">
+				Aufsteller: <select id="supplier">
 					<option value="">------</option>
 					<option value="Karl Meyer">Karl Meyer</option>
 					<option value="Berlin Recycling">Berlin Recycling</option>
