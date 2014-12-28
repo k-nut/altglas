@@ -1,0 +1,2995 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31822,
+          52.48264
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 1",
+        "bunt": "",
+        "weiss": "1",
+        "id": "2",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Mecklenburgische Str. 89",
+        "standort": "Aachener Str. Ecke Mecklenburgische Str.",
+        "breitengrad": "52,48264",
+        "lfd_nr_": "CW 1",
+        "plz": "10713",
+        "laengengrad": "13,31822"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32056,
+          52.48328
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 2",
+        "bunt": "",
+        "weiss": "1",
+        "id": "4",
+        "gruen": "1",
+        "braun": "",
+        "stadtplanadresse": "Am Volkspark 85",
+        "standort": "Am Volkspark Ecke Blissestr.",
+        "breitengrad": "52,48328",
+        "lfd_nr_": "CW 2",
+        "plz": "10715",
+        "laengengrad": "13,32056"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3139,
+          52.47588
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 3",
+        "bunt": "",
+        "weiss": "1",
+        "id": "6",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "A\u00dfmannshauser Str. 17",
+        "standort": "A\u00dfmannshauser Str. gg\u00fc. Nr. 17",
+        "breitengrad": "52,47588",
+        "lfd_nr_": "CW 3",
+        "plz": "14197",
+        "laengengrad": "13,3139"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30819,
+          52.49537
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "701",
+        "bunt": "",
+        "weiss": "1",
+        "id": "8",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Ballenstedter Str. 2",
+        "standort": "Ballenstedter Str. 2 Ecke Brandenburgische Str.",
+        "breitengrad": "52,49537",
+        "lfd_nr_": "CW 4",
+        "plz": "10709",
+        "laengengrad": "13,30819"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31376,
+          52.48393
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 4",
+        "bunt": "",
+        "weiss": "1",
+        "id": "10",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Barstr. 42",
+        "standort": "Barstr. Ecke Mannheimer Str. (Barbr\u00fccke)",
+        "breitengrad": "52,48393",
+        "lfd_nr_": "CW 5",
+        "plz": "10713",
+        "laengengrad": "13,31376"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28279,
+          52.4814
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 5",
+        "bunt": "",
+        "weiss": "2",
+        "id": "12",
+        "gruen": "2",
+        "braun": "2",
+        "stadtplanadresse": "Berkaer Str. 27",
+        "standort": "Berkaer Str. Ecke Karlsbader Str.",
+        "breitengrad": "52,4814",
+        "lfd_nr_": "CW 6",
+        "plz": "14193",
+        "laengengrad": "13,28279"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33178,
+          52.48756
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 6",
+        "bunt": "",
+        "weiss": "1",
+        "id": "14",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Bundesallee 180",
+        "standort": "Bundesallee 180 Ecke Berliner Str.10 vor Euro Gida",
+        "breitengrad": "52,48756",
+        "lfd_nr_": "CW 7",
+        "plz": "10715",
+        "laengengrad": "13,33178"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33101,
+          52.48703
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 7",
+        "bunt": "",
+        "weiss": "1",
+        "id": "16",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Bundesallee 42",
+        "standort": "Bundesallee 42, Mittelstreifen nahe Wendeschleife",
+        "breitengrad": "52,48703",
+        "lfd_nr_": "CW 8",
+        "plz": "10715",
+        "laengengrad": "13,33101"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30691,
+          52.48819
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 8",
+        "bunt": "1",
+        "weiss": "1",
+        "id": "18",
+        "gruen": "",
+        "braun": "",
+        "stadtplanadresse": "Berliner Str. 80",
+        "standort": "Berliner Str. 80 Ecke Hohenzollerndamm",
+        "breitengrad": "52,48819",
+        "lfd_nr_": "CW 9",
+        "plz": "10713",
+        "laengengrad": "13,30691"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30327,
+          52.51112
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "519",
+        "bunt": "",
+        "weiss": "1",
+        "id": "20",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Bismarckstr. 78",
+        "standort": "Bismarckstr. 78 Ecke R\u00fcckertstr.",
+        "breitengrad": "52,51112",
+        "lfd_nr_": "CW 10",
+        "plz": "10627",
+        "laengengrad": "13,30327"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31283,
+          52.51218
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 1",
+        "bunt": "",
+        "weiss": "1",
+        "id": "22",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Bismarckstr. 20",
+        "standort": "Bismarckstr. 20 gg\u00fc. Zauritzweg",
+        "breitengrad": "52,51218",
+        "lfd_nr_": "CW 11",
+        "plz": "10625",
+        "laengengrad": "13,31283"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30251,
+          52.52701
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 2",
+        "bunt": "",
+        "weiss": "1",
+        "id": "24",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Brahestr. 6",
+        "standort": "Brahestr. 6 / Sportplatz",
+        "breitengrad": "52,52701",
+        "lfd_nr_": "CW 12",
+        "plz": "10589",
+        "laengengrad": "13,30251"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31947,
+          52.48725
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 9",
+        "bunt": "",
+        "weiss": "1",
+        "id": "26",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Brandenburgische Str. 1",
+        "standort": "Brandenburgische Str. 1 - 2 Ecke Sigmaringer Str.",
+        "breitengrad": "52,48725",
+        "lfd_nr_": "CW 13",
+        "plz": "10713",
+        "laengengrad": "13,31947"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3099,
+          52.49395
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 10",
+        "bunt": "",
+        "weiss": "1",
+        "id": "28",
+        "gruen": "1",
+        "braun": "",
+        "stadtplanadresse": "Konstanzer Str. 18",
+        "standort": "Konstanzer Str. 18",
+        "breitengrad": "52,49395",
+        "lfd_nr_": "CW 14",
+        "plz": "10707",
+        "laengengrad": "13,3099"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33119,
+          52.48992
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 11",
+        "bunt": "",
+        "weiss": "1",
+        "id": "30",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Tharandter Str. 4",
+        "standort": "Bundesallee 189 Ecke Tharandter Str.4",
+        "breitengrad": "52,48992",
+        "lfd_nr_": "CW 15",
+        "plz": "10717",
+        "laengengrad": "13,33119"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33111,
+          52.4944
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 12",
+        "bunt": "",
+        "weiss": "1",
+        "id": "32",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Bundesallee 204",
+        "standort": "Bundesallee 204",
+        "breitengrad": "52,4944",
+        "lfd_nr_": "CW 16",
+        "plz": "10717",
+        "laengengrad": "13,33111"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27817,
+          52.46891
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "707",
+        "bunt": "",
+        "weiss": "1",
+        "id": "34",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "P\u00fccklerstr. 27",
+        "standort": "Clayallee N\u00e4he P\u00fccklerstr. 27",
+        "breitengrad": "52,46891",
+        "lfd_nr_": "CW 17",
+        "plz": "14195",
+        "laengengrad": "13,27817"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27868,
+          52.47467
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 13",
+        "bunt": "",
+        "weiss": "1",
+        "id": "36",
+        "gruen": "2",
+        "braun": "1",
+        "stadtplanadresse": "Bernadottestr. 17",
+        "standort": "Clayallee Ecke Bernadottestr. 17",
+        "breitengrad": "52,47467",
+        "lfd_nr_": "CW 18",
+        "plz": "14195",
+        "laengengrad": "13,27868"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29682,
+          52.50132
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 3",
+        "bunt": "",
+        "weiss": "1",
+        "id": "38",
+        "gruen": "2",
+        "braun": "1",
+        "stadtplanadresse": "Damaschkestr. 35",
+        "standort": "Damaschkestr. 35 Ecke Joachim-Friedrich-Str.",
+        "breitengrad": "52,50132",
+        "lfd_nr_": "CW 19",
+        "plz": "10711",
+        "laengengrad": "13,29682"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31466,
+          52.52164
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 4",
+        "bunt": "",
+        "weiss": "1",
+        "id": "40",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Darwinstr. 1-5",
+        "standort": "Darwinstr. 6 (gg\u00fc. Nr. 5)",
+        "breitengrad": "52,52164",
+        "lfd_nr_": "CW 20",
+        "plz": "10589",
+        "laengengrad": "13,31466"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25976,
+          52.48983
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 5",
+        "bunt": "",
+        "weiss": "1",
+        "id": "42",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Dauerwaldweg 1",
+        "standort": "Dauerwaldweg 1 Ecke Falterweg",
+        "breitengrad": "52,48983",
+        "lfd_nr_": "CW 21",
+        "plz": "14055",
+        "laengengrad": "13,25976"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30871,
+          52.46792
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 14",
+        "bunt": "",
+        "weiss": "1",
+        "id": "44",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Dillenburger Str. 4",
+        "standort": "Dillenburger Str. 4 / Nahe Breitenbachplatz 4",
+        "breitengrad": "52,46792",
+        "lfd_nr_": "CW 22",
+        "plz": "14199",
+        "laengengrad": "13,30871"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33358,
+          52.4798
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 15",
+        "bunt": "",
+        "weiss": "1",
+        "id": "46",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Durlacher Str. 15",
+        "standort": "Durlacher Str. gg\u00fc. Nr. 15",
+        "breitengrad": "52,4798",
+        "lfd_nr_": "CW 23",
+        "plz": "10715",
+        "laengengrad": "13,33358"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31191,
+          52.4971
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 16",
+        "bunt": "",
+        "weiss": "1",
+        "id": "48",
+        "gruen": "1",
+        "braun": "",
+        "stadtplanadresse": "Konstanzer Str. 58",
+        "standort": "Konstanzer Str. 58 Ecke D\u00fcsseldorfer Str.  ",
+        "breitengrad": "52,4971",
+        "lfd_nr_": "CW 24",
+        "plz": "10707",
+        "laengengrad": "13,31191"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32363,
+          52.49522
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 17",
+        "bunt": "",
+        "weiss": "1",
+        "id": "50",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "D\u00fcsseldorfer Str. 74",
+        "standort": "D\u00fcsseldorfer Str. Ecke Uhlandstr. vor Nah und gut",
+        "breitengrad": "52,49522",
+        "lfd_nr_": "CW 25",
+        "plz": "10719",
+        "laengengrad": "13,32363"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30515,
+          52.49702
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "702",
+        "bunt": "",
+        "weiss": "1",
+        "id": "52",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Paulsborner Str. 88A",
+        "standort": "Eisenzahnstr. Ecke Paulsborner Str. 88 A",
+        "breitengrad": "52,49702",
+        "lfd_nr_": "CW 26",
+        "plz": "10709",
+        "laengengrad": "13,30515"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24238,
+          52.50778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "510",
+        "bunt": "",
+        "weiss": "1",
+        "id": "54",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Heerstr. 86",
+        "standort": "Flatowallee Ecke Heerstra\u00dfe",
+        "breitengrad": "52,50778",
+        "lfd_nr_": "CW 27",
+        "plz": "14055",
+        "laengengrad": "13,24238"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29292,
+          52.48431
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 18",
+        "bunt": "",
+        "weiss": "1",
+        "id": "56",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Hohenzollerndamm 136",
+        "standort": "Flinsberger Platz Ecke Hohenzollerndamm",
+        "breitengrad": "52,48431",
+        "lfd_nr_": "CW 28",
+        "plz": "14199",
+        "laengengrad": "13,29292"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29631,
+          52.48119
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 19",
+        "bunt": "",
+        "weiss": "1",
+        "id": "58",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Forckenbeckstr. 37",
+        "standort": "Forckenbeckstr. 37 Ecke Cunostr. / Sporthalle",
+        "breitengrad": "52,48119",
+        "lfd_nr_": "CW 29",
+        "plz": "14199",
+        "laengengrad": "13,29631"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28996,
+          52.47574
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 20",
+        "bunt": "",
+        "weiss": "1",
+        "id": "60",
+        "gruen": "1",
+        "braun": "",
+        "stadtplanadresse": "Hundekehlestr. 3",
+        "standort": "Hundekehlestr. 3 Ecke Berkaer Str.",
+        "breitengrad": "52,47574",
+        "lfd_nr_": "CW 30",
+        "plz": "14199",
+        "laengengrad": "13,28996"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29634,
+          52.48376
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "704",
+        "bunt": "",
+        "weiss": "1",
+        "id": "62",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Fritz-Wildung-Str. 26",
+        "standort": "Fritz-Wildung-Str. 26 Ecke Cunostr.",
+        "breitengrad": "52,48376",
+        "lfd_nr_": "CW 31",
+        "plz": "14199",
+        "laengengrad": "13,29634"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31003,
+          52.52928
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "506",
+        "bunt": "",
+        "weiss": "1",
+        "id": "64",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Gau\u00dfstr. 10",
+        "standort": "Gau\u00dfstr. 10 vor der Laubenkolonie",
+        "breitengrad": "52,52928",
+        "lfd_nr_": "CW 32",
+        "plz": "10589",
+        "laengengrad": "13,31003"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30623,
+          52.50478
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 6",
+        "bunt": "",
+        "weiss": "1",
+        "id": "66",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Gervinusstr. 3",
+        "standort": "Gervinusstr. 3",
+        "breitengrad": "52,50478",
+        "lfd_nr_": "CW 33",
+        "plz": "10629",
+        "laengengrad": "13,30623"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32188,
+          52.51655
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "508",
+        "bunt": "",
+        "weiss": "1",
+        "id": "68",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Guerickestr. 25",
+        "standort": "Guerickestr. 25",
+        "breitengrad": "52,51655",
+        "lfd_nr_": "CW 34",
+        "plz": "10587",
+        "laengengrad": "13,32188"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31474,
+          52.5255
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "507",
+        "bunt": "",
+        "weiss": "1",
+        "id": "70",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Kaiserin-Augusta-Allee 31",
+        "standort": "Goslarer Ufer / gg\u00fc. Kaiserin-Augusta-Allee 31",
+        "breitengrad": "52,5255",
+        "lfd_nr_": "CW 35",
+        "plz": "10589",
+        "laengengrad": "13,31474"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3156,
+          52.51796
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 7",
+        "bunt": "",
+        "weiss": "1",
+        "id": "72",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Guerickestr. 39",
+        "standort": "Guerickestr. Ecke Galvanistr.",
+        "breitengrad": "52,51796",
+        "lfd_nr_": "CW 36",
+        "plz": "10587",
+        "laengengrad": "13,3156"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28239,
+          52.53416
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 8",
+        "bunt": "",
+        "weiss": "1",
+        "id": "74",
+        "gruen": "1",
+        "braun": "",
+        "stadtplanadresse": "Letterhausweg 1",
+        "standort": "Letterhausweg 1",
+        "breitengrad": "52,53416",
+        "lfd_nr_": "CW 37",
+        "plz": "13627",
+        "laengengrad": "13,28239"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28681,
+          52.53898
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 9",
+        "bunt": "",
+        "weiss": "1",
+        "id": "76",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Halemweg 30",
+        "standort": "Halemweg 30",
+        "breitengrad": "52,53898",
+        "lfd_nr_": "CW 38",
+        "plz": "13627",
+        "laengengrad": "13,28681"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26231,
+          52.50122
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "513",
+        "bunt": "",
+        "weiss": "1",
+        "id": "78",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Harbigstr. 24",
+        "standort": "Harbigstr. 24 gg\u00fc. Ecke Waldschulallee",
+        "breitengrad": "52,50122",
+        "lfd_nr_": "CW 39",
+        "plz": "14055",
+        "laengengrad": "13,26231"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25957,
+          52.49924
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "515",
+        "bunt": "",
+        "weiss": "2",
+        "id": "80",
+        "gruen": "2",
+        "braun": "1",
+        "stadtplanadresse": "Harbigstr. 36",
+        "standort": "Harbigstr. 36 / Parkplatz Kolonie Waldschule",
+        "breitengrad": "52,49924",
+        "lfd_nr_": "CW 40",
+        "plz": "14055",
+        "laengengrad": "13,25957"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31136,
+          52.53943
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 10",
+        "bunt": "",
+        "weiss": "3",
+        "id": "82",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Heckerdamm 181",
+        "standort": "Heckerdamm 181",
+        "breitengrad": "52,53943",
+        "lfd_nr_": "CW 41",
+        "plz": "13627",
+        "laengengrad": "13,31136"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29962,
+          52.53942
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "502",
+        "bunt": "",
+        "weiss": "1",
+        "id": "84",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Heckerdamm 225-231",
+        "standort": "Heckerdamm 231 vor Edeka Reichelt",
+        "breitengrad": "52,53942",
+        "lfd_nr_": "CW 42",
+        "plz": "13627",
+        "laengengrad": "13,29962"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24272,
+          52.50735
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 12",
+        "bunt": "",
+        "weiss": "1",
+        "id": "86",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Heerstr. 86",
+        "standort": "Heerstr. 86 Ecke Flatowallee",
+        "breitengrad": "52,50735",
+        "lfd_nr_": "CW 43",
+        "plz": "14055",
+        "laengengrad": "13,24272"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21782,
+          52.50905
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 11",
+        "bunt": "",
+        "weiss": "1",
+        "id": "88",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Heerstr. 162",
+        "standort": "Heerstr. 162 Ecke Glockenturmstr.",
+        "breitengrad": "52,50905",
+        "lfd_nr_": "CW 44",
+        "plz": "14055",
+        "laengengrad": "13,21782"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25039,
+          52.50782
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "511",
+        "bunt": "",
+        "weiss": "1",
+        "id": "90",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Ortelsburger Allee 1",
+        "standort": "Heerstr. 61N\u00e4he Ortelsburger Allee",
+        "breitengrad": "52,50782",
+        "lfd_nr_": "CW 45",
+        "plz": "14055",
+        "laengengrad": "13,25039"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27954,
+          52.53757
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 13",
+        "bunt": "",
+        "weiss": "1",
+        "id": "92",
+        "gruen": "1",
+        "braun": "",
+        "stadtplanadresse": "Heilmannring 98",
+        "standort": "Heilmannring 98",
+        "breitengrad": "52,53757",
+        "lfd_nr_": "CW 46",
+        "plz": "13627",
+        "laengengrad": "13,27954"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31167,
+          52.47936
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 21",
+        "bunt": "",
+        "weiss": "2",
+        "id": "94",
+        "gruen": "2",
+        "braun": "1",
+        "stadtplanadresse": "Mecklenburgische Str. 23",
+        "standort": "Heidelberger Platz, gg\u00fc. Mecklenburgische Str. 23",
+        "breitengrad": "52,47936",
+        "lfd_nr_": "CW 47",
+        "plz": "14197",
+        "laengengrad": "13,31167"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3257,
+          52.52161
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 14",
+        "bunt": "",
+        "weiss": "1",
+        "id": "96",
+        "gruen": "1",
+        "braun": "",
+        "stadtplanadresse": "Helmholtzstr. 28",
+        "standort": "Helmholtzstr. gg\u00fc. Nr. 28",
+        "breitengrad": "52,52161",
+        "lfd_nr_": "CW 48",
+        "plz": "10587",
+        "laengengrad": "13,3257"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30135,
+          52.49518
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 22",
+        "bunt": "",
+        "weiss": "1",
+        "id": "98",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Cicerostr. 49A",
+        "standort": "Cicerostr. 49A gg\u00fc. / Paulsbornerstr.",
+        "breitengrad": "52,49518",
+        "lfd_nr_": "CW 49",
+        "plz": "10709",
+        "laengengrad": "13,30135"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3285,
+          52.4948
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 24",
+        "bunt": "",
+        "weiss": "1",
+        "id": "100",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Hohenzollerndamm 208",
+        "standort": "Hohenzollerndamm 208 / Wasserwerk",
+        "breitengrad": "52,4948",
+        "lfd_nr_": "CW 50",
+        "plz": "10717",
+        "laengengrad": "13,3285"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32501,
+          52.49394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 23",
+        "bunt": "",
+        "weiss": "1",
+        "id": "102",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Hohenzollerndamm 199",
+        "standort": "Hohenzollerndamm 199 gg\u00fc. / Hohenzollernplatz",
+        "breitengrad": "52,49394",
+        "lfd_nr_": "CW 51",
+        "plz": "10717",
+        "laengengrad": "13,32501"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29596,
+          52.50246
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 15",
+        "bunt": "",
+        "weiss": "1",
+        "id": "104",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Heilbronner Str. 12",
+        "standort": "Holtzendorffstr. an der S-Bahnbr\u00fccke Ecke Heilbronner Str. 12",
+        "breitengrad": "52,50246",
+        "lfd_nr_": "CW 52",
+        "plz": "14057",
+        "laengengrad": "13,29596"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28263,
+          52.47662
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 25",
+        "bunt": "",
+        "weiss": "1",
+        "id": "106",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Hohenzollerndamm 105",
+        "standort": "Hohenzollerndamm 105 am Betty-Hirsch-Platz",
+        "breitengrad": "52,47662",
+        "lfd_nr_": "CW 53",
+        "plz": "14199",
+        "laengengrad": "13,28263"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31152,
+          52.46848
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 27",
+        "bunt": "",
+        "weiss": "1",
+        "id": "108",
+        "gruen": "2",
+        "braun": "1",
+        "stadtplanadresse": "S\u00fcdwestkorso 36A",
+        "standort": "Johannisberger Str.36A Ecke S\u00fcdwestkorso neben Kaiser's",
+        "breitengrad": "52,46848",
+        "lfd_nr_": "CW 54",
+        "plz": "14197",
+        "laengengrad": "13,31152"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31103,
+          52.47455
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 26",
+        "bunt": "",
+        "weiss": "1",
+        "id": "110",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Johannisberger Str. 56",
+        "standort": "Johannisberger Str. 56 Ecke Homburger Str.",
+        "breitengrad": "52,47455",
+        "lfd_nr_": "CW 55",
+        "plz": "14197",
+        "laengengrad": "13,31103"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27083,
+          52.54765
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "501",
+        "bunt": "",
+        "weiss": "1",
+        "id": "112",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Jungfernheideweg 80",
+        "standort": "Jungfernheideweg gg\u00fc. Nr. 80 Ecke Saatwinkler Damm",
+        "breitengrad": "52,54765",
+        "lfd_nr_": "CW 56",
+        "plz": "13629",
+        "laengengrad": "13,27083"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29019,
+          52.51035
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 17",
+        "bunt": "",
+        "weiss": "1",
+        "id": "114",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Erwin-Barth-Platz",
+        "standort": "Kaiserdamm 108 - Erwin-Barth-Platz",
+        "breitengrad": "52,51035",
+        "lfd_nr_": "CW 57",
+        "plz": "14057",
+        "laengengrad": "13,29019"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27609,
+          52.50945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 16",
+        "bunt": "",
+        "weiss": "1",
+        "id": "116",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Kaiserdamm 80",
+        "standort": "Kaiserdamm 77 \u2013 79 / RBB",
+        "breitengrad": "52,50945",
+        "lfd_nr_": "CW 58",
+        "plz": "14057",
+        "laengengrad": "13,27609"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31182,
+          52.50629
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 18",
+        "bunt": "",
+        "weiss": "1",
+        "id": "118",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Kantstr. 126",
+        "standort": "Kantstr. 126",
+        "breitengrad": "52,50629",
+        "lfd_nr_": "CW 59",
+        "plz": "10625",
+        "laengengrad": "13,31182"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28225,
+          52.47835
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "705",
+        "bunt": "",
+        "weiss": "1",
+        "id": "120",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Karlsbader Str. 17",
+        "standort": "Karlsbader Str. 17 vor Edeka",
+        "breitengrad": "52,47835",
+        "lfd_nr_": "CW 60",
+        "plz": "14199",
+        "laengengrad": "13,28225"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29036,
+          52.51893
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 19",
+        "bunt": "",
+        "weiss": "1",
+        "id": "122",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Klausenerplatz 1",
+        "standort": "Klausenerplatz 1 / Spandauer Damm",
+        "breitengrad": "52,51893",
+        "lfd_nr_": "CW 61",
+        "plz": "14059",
+        "laengengrad": "13,29036"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28255,
+          52.5128
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "512",
+        "bunt": "",
+        "weiss": "1",
+        "id": "124",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Knobelsdorffstr. 85",
+        "standort": "Knobelsdorffstr. 85",
+        "breitengrad": "52,5128",
+        "lfd_nr_": "CW 62",
+        "plz": "14059",
+        "laengengrad": "13,28255"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2812,
+          52.51548
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 20",
+        "bunt": "",
+        "weiss": "2",
+        "id": "126",
+        "gruen": "2",
+        "braun": "",
+        "stadtplanadresse": "K\u00f6nigin-Elisabeth-Str. 44",
+        "standort": "K\u00f6nigin-Elisabeth-Str. 32 - 44 / Friedhof",
+        "breitengrad": "52,51548",
+        "lfd_nr_": "CW 63",
+        "plz": "14059",
+        "laengengrad": "13,2812"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33643,
+          52.48591
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 28",
+        "bunt": "",
+        "weiss": "1",
+        "id": "128",
+        "gruen": "1",
+        "braun": "",
+        "stadtplanadresse": "Kufsteiner Str. 20",
+        "standort": "Kufsteiner Str. gg\u00fc. Nr. 21",
+        "breitengrad": "52,48591",
+        "lfd_nr_": "CW 64",
+        "plz": "10825",
+        "laengengrad": "13,33643"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32035,
+          52.47654
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 29",
+        "bunt": "",
+        "weiss": "1",
+        "id": "130",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Laubacher Str. 27",
+        "standort": "Laubacher Str. 27 Ecke Fehlerstr.",
+        "breitengrad": "52,47654",
+        "lfd_nr_": "CW 65",
+        "plz": "14197",
+        "laengengrad": "13,32035"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31358,
+          52.50497
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 21",
+        "bunt": "",
+        "weiss": "1",
+        "id": "132",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Leibnizstr. 65",
+        "standort": "Leibnizstr. 65 Ecke Niebuhrstr.",
+        "breitengrad": "52,50497",
+        "lfd_nr_": "CW 66",
+        "plz": "10629",
+        "laengengrad": "13,31358"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30015,
+          52.46844
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 30",
+        "bunt": "",
+        "weiss": "1",
+        "id": "134",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Lentzeallee 75",
+        "standort": "Lentzeallee 75 Ecke Albrecht-Thaer-Weg",
+        "breitengrad": "52,46844",
+        "lfd_nr_": "CW 67",
+        "plz": "14195",
+        "laengengrad": "13,30015"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30386,
+          52.50399
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 22",
+        "bunt": "",
+        "weiss": "1",
+        "id": "136",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Lewishamstr. 40",
+        "standort": "Lewishamstr. 40 Ecke Gervinusstr.",
+        "breitengrad": "52,50399",
+        "lfd_nr_": "CW 68",
+        "plz": "10629",
+        "laengengrad": "13,30386"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32054,
+          52.49804
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "706",
+        "bunt": "",
+        "weiss": "2",
+        "id": "138",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Ludwigkirchplatz 7",
+        "standort": "Ludwigkirchplatz 5 Ecke Emser Str.",
+        "breitengrad": "52,49804",
+        "lfd_nr_": "CW 69",
+        "plz": "10719",
+        "laengengrad": "13,32054"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32318,
+          52.51565
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 23",
+        "bunt": "",
+        "weiss": "1",
+        "id": "140",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Marchstr. 25",
+        "standort": "Marchstr. 25 \u2013 25 B",
+        "breitengrad": "52,51565",
+        "lfd_nr_": "CW 70",
+        "plz": "10587",
+        "laengengrad": "13,32318"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30728,
+          52.47723
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 31",
+        "bunt": "",
+        "weiss": "1",
+        "id": "142",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Mecklenburgische Str. 65",
+        "standort": "Mecklenburgische Str. 65 - 68",
+        "breitengrad": "52,47723",
+        "lfd_nr_": "CW 71",
+        "plz": "14197",
+        "laengengrad": "13,30728"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30313,
+          52.52422
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 24",
+        "bunt": "",
+        "weiss": "1",
+        "id": "144",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Mierendorffstr. 30",
+        "standort": "Mierendorffstr. 29 Ecke Nordhauser Str.",
+        "breitengrad": "52,52422",
+        "lfd_nr_": "CW 72",
+        "plz": "10589",
+        "laengengrad": "13,30313"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33608,
+          52.4947
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 32",
+        "bunt": "",
+        "weiss": "1",
+        "id": "146",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Nachodstr. 25",
+        "standort": "Nachodstr. 25",
+        "breitengrad": "52,4947",
+        "lfd_nr_": "CW 73",
+        "plz": "10779",
+        "laengengrad": "13,33608"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32639,
+          52.49156
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "?",
+        "bunt": "",
+        "weiss": "1",
+        "id": "148",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Nassauische Str. 16",
+        "standort": "Nassauische Str. 16 Ecke Trautenaustr. / G\u00fcntzelstr.",
+        "breitengrad": "52,49156",
+        "lfd_nr_": "CW 74",
+        "plz": "10717",
+        "laengengrad": "13,32639"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28968,
+          52.50653
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "Wall ?",
+        "bunt": "1",
+        "weiss": "1",
+        "id": "150",
+        "gruen": "",
+        "braun": "",
+        "stadtplanadresse": "Neue Kantstr. 23",
+        "standort": "Neue Kantstr. Ecke Kuno-Fischer-Str.",
+        "breitengrad": "52,50653",
+        "lfd_nr_": "CW 75",
+        "plz": "14057",
+        "laengengrad": "13,28968"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33598,
+          52.49976
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 33",
+        "bunt": "",
+        "weiss": "1",
+        "id": "152",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "N\u00fcrnberger Str. 41",
+        "standort": "N\u00fcrnberger Str. 41 Ecke Lietzenburger Str.",
+        "breitengrad": "52,49976",
+        "lfd_nr_": "CW 76",
+        "plz": "10789",
+        "laengengrad": "13,33598"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29958,
+          52.52959
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "505",
+        "bunt": "",
+        "weiss": "1",
+        "id": "154",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Olbersstr. 15",
+        "standort": "Olbersstra\u00dfe 15. gg\u00fc. Herschelstr. Am U-Bhf. Jungfernheide",
+        "breitengrad": "52,52959",
+        "lfd_nr_": "CW 77",
+        "plz": "10589",
+        "laengengrad": "13,29958"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3158,
+          52.49937
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 25",
+        "bunt": "",
+        "weiss": "1",
+        "id": "156",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Olivaer Platz 12",
+        "standort": "Olivaer Platz gg\u00fc. Nr. 12",
+        "breitengrad": "52,49937",
+        "lfd_nr_": "CW 78",
+        "plz": "10707",
+        "laengengrad": "13,3158"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25223,
+          52.51593
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 26",
+        "bunt": "",
+        "weiss": "2",
+        "id": "158",
+        "gruen": "2",
+        "braun": "1",
+        "stadtplanadresse": "Olympische Str. 30",
+        "standort": "Olympische Str. 34",
+        "breitengrad": "52,51593",
+        "lfd_nr_": "CW 79",
+        "plz": "14052",
+        "laengengrad": "13,25223"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29581,
+          52.49216
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 34",
+        "bunt": "",
+        "weiss": "1",
+        "id": "160",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Paulsborner Str. 70",
+        "standort": "Paulsborner Str. 70",
+        "breitengrad": "52,49216",
+        "lfd_nr_": "CW 80",
+        "plz": "10709",
+        "laengengrad": "13,29581"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30178,
+          52.50789
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 27",
+        "bunt": "",
+        "weiss": "1",
+        "id": "162",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Kaiser-Friedrich-Str. 45B",
+        "standort": "Pestalozzistr. Ecke Kaiser-Friedrich-Str. ARAL-Tankstelle",
+        "breitengrad": "52,50789",
+        "lfd_nr_": "CW 81",
+        "plz": "10627",
+        "laengengrad": "13,30178"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26893,
+          52.51384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "516",
+        "bunt": "",
+        "weiss": "1",
+        "id": "164",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Platanenallee 23",
+        "standort": "Platanenallee 22 N\u00e4he Leistikowstr.",
+        "breitengrad": "52,51384",
+        "lfd_nr_": "CW 82",
+        "plz": "14050",
+        "laengengrad": "13,26893"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25922,
+          52.51023
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 28",
+        "bunt": "",
+        "weiss": "1",
+        "id": "166",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Preu\u00dfenallee 11",
+        "standort": "Preu\u00dfenallee gg\u00fc. 11 / Sportplatz",
+        "breitengrad": "52,51023",
+        "lfd_nr_": "CW 83",
+        "plz": "14052",
+        "laengengrad": "13,25922"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33315,
+          52.48223
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 35",
+        "bunt": "",
+        "weiss": "1",
+        "id": "168",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Prinzregentenstr. 35",
+        "standort": "Prinzregentenstr. 35 Ecke Am Volkspark",
+        "breitengrad": "52,48223",
+        "lfd_nr_": "CW 84",
+        "plz": "10715",
+        "laengengrad": "13,33315"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30816,
+          52.52321
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 29",
+        "bunt": "",
+        "weiss": "1",
+        "id": "170",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Ilsenburger Str. 9",
+        "standort": "Quedlinburger Str. / zwischen Ilsenburger und Treseburger Str.",
+        "breitengrad": "52,52321",
+        "lfd_nr_": "CW 85",
+        "plz": "10589",
+        "laengengrad": "13,30816"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25628,
+          52.5194
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 30",
+        "bunt": "",
+        "weiss": "1",
+        "id": "172",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Reichsstr. 37",
+        "standort": "Reichsstr. gg\u00fc. 37 / Brixplatz",
+        "breitengrad": "52,5194",
+        "lfd_nr_": "CW 86",
+        "plz": "14052",
+        "laengengrad": "13,25628"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26402,
+          52.51456
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 31",
+        "bunt": "",
+        "weiss": "1",
+        "id": "174",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Reichsstr. 88A",
+        "standort": "Reichsstr. gg\u00fc. 88A Ecke Kirschallee",
+        "breitengrad": "52,51456",
+        "lfd_nr_": "CW 87",
+        "plz": "14052",
+        "laengengrad": "13,26402"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30682,
+          52.51678
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 32",
+        "bunt": "",
+        "weiss": "1",
+        "id": "176",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Richard-Wagner-Str. 56",
+        "standort": "Richard-Wagner-Str. 56",
+        "breitengrad": "52,51678",
+        "lfd_nr_": "CW 88",
+        "plz": "10585",
+        "laengengrad": "13,30682"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24452,
+          52.52373
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "520",
+        "bunt": "",
+        "weiss": "1",
+        "id": "178",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Murellenweg 1",
+        "standort": "Rominter Allee Ecke Murellenweg / U-Bhf. Ruhleben s\u00fcdl. der U-Bahn-Br\u00fccke",
+        "breitengrad": "52,52373",
+        "lfd_nr_": "CW 89",
+        "plz": "14052",
+        "laengengrad": "13,24452"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30749,
+          52.48426
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 36",
+        "bunt": "",
+        "weiss": "1",
+        "id": "180",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Rudolst\u00e4dter Str. 42",
+        "standort": "Rudolst\u00e4dter Str. 42 gg\u00fc. / Parkpatz unter Br\u00fccke Abzweig Steglitz",
+        "breitengrad": "52,48426",
+        "lfd_nr_": "CW 90",
+        "plz": "10713",
+        "laengengrad": "13,30749"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29984,
+          52.50969
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 33",
+        "bunt": "",
+        "weiss": "1",
+        "id": "182",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Schillerstr. 61-62",
+        "standort": "Schillerstr. 62 Ecke Fritschestr.",
+        "breitengrad": "52,50969",
+        "lfd_nr_": "CW 91",
+        "plz": "10627",
+        "laengengrad": "13,29984"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30348,
+          52.51012
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 34",
+        "bunt": "",
+        "weiss": "1",
+        "id": "184",
+        "gruen": "1",
+        "braun": "",
+        "stadtplanadresse": "R\u00fcckertstr. 7",
+        "standort": "R\u00fcckertstr. 7",
+        "breitengrad": "52,51012",
+        "lfd_nr_": "CW 92",
+        "plz": "10627",
+        "laengengrad": "13,30348"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.22824,
+          52.50743
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "509",
+        "bunt": "",
+        "weiss": "1",
+        "id": "186",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Schirwindter Allee 2",
+        "standort": "Schirwindter Allee gg\u00fc. Nr. 2 neben ARAL",
+        "breitengrad": "52,50743",
+        "lfd_nr_": "CW 93",
+        "plz": "14055",
+        "laengengrad": "13,22824"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.22865,
+          52.50931
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 35",
+        "bunt": "",
+        "weiss": "1",
+        "id": "188",
+        "gruen": "1",
+        "braun": "",
+        "stadtplanadresse": "Schirwindter Allee 22",
+        "standort": "Schirwindter Allee gg\u00fc. Nr. 22",
+        "breitengrad": "52,50931",
+        "lfd_nr_": "CW 94",
+        "plz": "14055",
+        "laengengrad": "13,22865"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2972,
+          52.51363
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 37",
+        "bunt": "",
+        "weiss": "1",
+        "id": "190",
+        "gruen": "2",
+        "braun": "1",
+        "stadtplanadresse": "Hebbelstr. 13",
+        "standort": "Schlo\u00dfstr. Ecke Hebbelstr.",
+        "breitengrad": "52,51363",
+        "lfd_nr_": "CW 95",
+        "plz": "10585",
+        "laengengrad": "13,2972"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2968,
+          52.51603
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 36",
+        "bunt": "",
+        "weiss": "1",
+        "id": "192",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Schlo\u00dfstr. 56",
+        "standort": "Schlo\u00dfstr. 56 / Parkplatz",
+        "breitengrad": "52,51603",
+        "lfd_nr_": "CW 96",
+        "plz": "14059",
+        "laengengrad": "13,2968"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27755,
+          52.50999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 38",
+        "bunt": "",
+        "weiss": "1",
+        "id": "194",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Soorstr. 26",
+        "standort": "Soorstr. 26 Ecke Kaiserdamm Shell-Tankstelle",
+        "breitengrad": "52,50999",
+        "lfd_nr_": "CW 97",
+        "plz": "14050",
+        "laengengrad": "13,27755"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27291,
+          52.51955
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "523",
+        "bunt": "",
+        "weiss": "1",
+        "id": "196",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Spandauer Damm 152",
+        "standort": "Spandauer Damm 152 / gg\u00fc. Kastanienallee",
+        "breitengrad": "52,51955",
+        "lfd_nr_": "CW 98",
+        "plz": "14050",
+        "laengengrad": "13,27291"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26248,
+          52.52109
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 40",
+        "bunt": "",
+        "weiss": "1",
+        "id": "198",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Bolivarallee 23",
+        "standort": "Spandauer Damm Ecke Bolivarallee 23 - 25",
+        "breitengrad": "52,52109",
+        "lfd_nr_": "CW 99",
+        "plz": "14050",
+        "laengengrad": "13,26248"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25547,
+          52.52259
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "525",
+        "bunt": "",
+        "weiss": "1",
+        "id": "200",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Spandauer Damm 230",
+        "standort": "Spandauer Damm 230 N\u00e4he Kolonie Wochenend",
+        "breitengrad": "52,52259",
+        "lfd_nr_": "CW 100",
+        "plz": "14052",
+        "laengengrad": "13,25547"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25855,
+          52.52179
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 39",
+        "bunt": "1",
+        "weiss": "1",
+        "id": "202",
+        "gruen": "",
+        "braun": "",
+        "stadtplanadresse": "Spandauer Damm 217",
+        "standort": "Spandauer Damm 217 Ecke Meiningenallee",
+        "breitengrad": "52,52179",
+        "lfd_nr_": "CW 101",
+        "plz": "14052",
+        "laengengrad": "13,25855"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31705,
+          52.47575
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 37",
+        "bunt": "",
+        "weiss": "1",
+        "id": "204",
+        "gruen": "1",
+        "braun": "",
+        "stadtplanadresse": "Spessartstr. 18",
+        "standort": "Spessartstr. 18 Ecke Offenbacher Str.",
+        "breitengrad": "52,47575",
+        "lfd_nr_": "CW 102",
+        "plz": "14197",
+        "laengengrad": "13,31705"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29562,
+          52.50798
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "518",
+        "bunt": "",
+        "weiss": "1",
+        "id": "206",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Suarezstr. 14",
+        "standort": "Suarezstr. 13 Ecke Steifensandstr.",
+        "breitengrad": "52,50798",
+        "lfd_nr_": "CW 103",
+        "plz": "10627",
+        "laengengrad": "13,29562"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26986,
+          52.49827
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 41",
+        "bunt": "",
+        "weiss": "1",
+        "id": "208",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Waldschulallee 2",
+        "standort": "Waldschulallee 2 / S-Bhf. Messe-S\u00fcd",
+        "breitengrad": "52,49827",
+        "lfd_nr_": "CW 104",
+        "plz": "14055",
+        "laengengrad": "13,26986"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28601,
+          52.4866
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 38",
+        "bunt": "",
+        "weiss": "1",
+        "id": "210",
+        "gruen": "2",
+        "braun": "1",
+        "stadtplanadresse": "Warmbrunner Str. 6",
+        "standort": "Warmbrunner Str. gg\u00fc. Nr. 6 / Hubertussportplatz",
+        "breitengrad": "52,4866",
+        "lfd_nr_": "CW 105",
+        "plz": "14193",
+        "laengengrad": "13,28601"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29024,
+          52.47337
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 39",
+        "bunt": "",
+        "weiss": "1",
+        "id": "212",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Warnem\u00fcnder Str. 8",
+        "standort": "Warnem\u00fcnder Str. 8",
+        "breitengrad": "52,47337",
+        "lfd_nr_": "CW 106",
+        "plz": "14199",
+        "laengengrad": "13,29024"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30283,
+          52.4943
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "708",
+        "bunt": "",
+        "weiss": "1",
+        "id": "214",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Westf\u00e4lische Str. 76A",
+        "standort": "Westf\u00e4lische Str. gg\u00fc. 76 A Ecke Albrecht-Achilles-Str.",
+        "breitengrad": "52,4943",
+        "lfd_nr_": "CW 107",
+        "plz": "10709",
+        "laengengrad": "13,30283"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33157,
+          52.47858
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "709",
+        "bunt": "",
+        "weiss": "1",
+        "id": "216",
+        "gruen": "1",
+        "braun": "",
+        "stadtplanadresse": "Wexstr. 37",
+        "standort": "Wexstr. 37 Ecke Bernhardtstr.",
+        "breitengrad": "52,47858",
+        "lfd_nr_": "CW 108",
+        "plz": "10715",
+        "laengengrad": "13,33157"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3001,
+          52.50474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "42",
+        "bunt": "",
+        "weiss": "1",
+        "id": "218",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Stuttgarte Platz 24",
+        "standort": "Windscheidstr. Ecke Stuttgarte Platz 24",
+        "breitengrad": "52,50474",
+        "lfd_nr_": "CW 109",
+        "plz": "10627",
+        "laengengrad": "13,3001"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29558,
+          52.5106
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "517",
+        "bunt": "",
+        "weiss": "1",
+        "id": "220",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Kaiserdamm 116",
+        "standort": "Witzlebenstr. Ecke Kaiserdamm 116 vor ESSO",
+        "breitengrad": "52,5106",
+        "lfd_nr_": "CW 110",
+        "plz": "14057",
+        "laengengrad": "13,29558"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31449,
+          52.49157
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 40",
+        "bunt": "",
+        "weiss": "1",
+        "id": "222",
+        "gruen": "1",
+        "braun": "",
+        "stadtplanadresse": "W\u00fcrttembergische Str. 5",
+        "standort": "W\u00fcrttembergische Str. 1 / Am Preu\u00dfenpark",
+        "breitengrad": "52,49157",
+        "lfd_nr_": "CW 111",
+        "plz": "10707",
+        "laengengrad": "13,31449"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30355,
+          52.5135
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "C 42",
+        "bunt": "",
+        "weiss": "1",
+        "id": "224",
+        "gruen": "1",
+        "braun": "",
+        "stadtplanadresse": "Zillestr. 86",
+        "standort": "Zillestr. Ecke Gierkezeile",
+        "breitengrad": "52,5135",
+        "lfd_nr_": "CW 112",
+        "plz": "10585",
+        "laengengrad": "13,30355"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30122,
+          52.47397
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Karl Meyer",
+        "altenr_": "W 41",
+        "bunt": "",
+        "weiss": "2",
+        "id": "226",
+        "gruen": "2",
+        "braun": "1",
+        "stadtplanadresse": "Mecklenburgische Str. 53",
+        "standort": "Mecklenburgische Str. 53 vor Reichelt",
+        "breitengrad": "52,47397",
+        "lfd_nr_": "CW 113",
+        "plz": "14197",
+        "laengengrad": "13,30122"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30212,
+          52.51339
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "",
+        "bunt": "",
+        "weiss": "1",
+        "id": "228",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Zillestr. 93",
+        "standort": "Zillestr. 93",
+        "breitengrad": "52,51339",
+        "lfd_nr_": "CW 114",
+        "plz": "10585",
+        "laengengrad": "13,30212"
+      },
+      "id": null
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31999,
+          52.47268
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "aufsteller": "Berlin Recycling",
+        "altenr_": "",
+        "bunt": "",
+        "weiss": "1",
+        "id": "230",
+        "gruen": "1",
+        "braun": "1",
+        "stadtplanadresse": "Laubacher Str. 42",
+        "standort": "Laubacher Str. 42 / Landauer Str. 1",
+        "breitengrad": "52,47268",
+        "lfd_nr_": "CW 115",
+        "plz": "14197",
+        "laengengrad": "13,31999"
+      },
+      "id": null
+    }
+  ]
+}

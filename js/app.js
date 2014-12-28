@@ -14,7 +14,7 @@ $(document).ready(function() {
   }).addTo(map);
 
   var containers;
-  $.getJSON("data/all.gjson", function(data) {
+  $.getJSON("data/all.geojson", function(data) {
     containers = data;
   })
   .done(function(){
