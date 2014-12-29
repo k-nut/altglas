@@ -22,6 +22,12 @@ Then open your browser and open ..
 http://localhost:8000
 ```
 
+If you want to get the newest data `cd` to the `python` directory and run 
+```
+python3 create_geojson_from_weird_json.py
+```
+This will automatically update the `all.geojson` file in the `data` directory.
+
 ## Authors & Contributors
 
 * [Christian Pape](https://github.com/cpape)
@@ -35,7 +41,8 @@ http://localhost:8000
 
 ## References
 
-* [Open Data Berlin: Standorte von Altglascontainern auf öffentlichem Straßenland in Charlottenburg-Wilmersdorf][glass-container-cw]
+* ~~[Open Data Berlin: Standorte von Altglascontainern auf öffentlichem Straßenland in Charlottenburg-Wilmersdorf][glass-container-cw]~~ (no longer accessible)
+* [New Location for the data][newlocation]
 * [Districts of Berlin, preprocessed by Felix Ebert][felixs-berlin-bezirke]
 
 
@@ -43,3 +50,4 @@ http://localhost:8000
 [opendataday-2014-berlin]: http://de.opendataday.org/berlin/
 [glass-container-cw]: http://daten.berlin.de/datensaetze/standorte-von-altglascontainern-auf-%C3%B6ffentlichem-stra%C3%9Fenland-charlottenburg-wilmersdorf
 [felixs-berlin-bezirke]: http://felixebert.de/energyhackday/data/Berlin-Bezirke.geojson
+[newlocation]: http://www.berlin.de/ba-charlottenburg-wilmersdorf/verwaltung/aemter/umwelt-und-naturschutzamt/umweltschutz/altglascontainer/index.php/index/all.json?q&amp;q_geo&amp;q_radius=20000
