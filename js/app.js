@@ -33,15 +33,6 @@ $(document).ready(function() {
     }}).addTo(map);
   });
 
-
-  var filterBySupplier = function(container){
-    var filterSupplier = $("#supplier").val();
-    if (filterSupplier === ""){
-      return true;
-    }
-    return container.properties.aufsteller === filterSupplier;
-  }
-
   function filterPoints(){
     var filterBrown = $("#brown").prop("checked");
     var filterWhite = $("#white").prop("checked");
@@ -54,23 +45,31 @@ $(document).ready(function() {
       "bunt": filterColored
     };
     var filterPlz = $("#plz").val();
+    var filterSupplier = $("#supplier").val();
 
 
     var filteredContainers = [];
-    filteredContainers = _.filter(containers.features, function(container){
-      return (filterPlz === "-1" || container.properties.plz === filterPlz);
-    });
+    if (filterPlz !== "-1"){
+      filteredContainers = _.filter(containers.features, function(container){
+        return container.properties.plz === filterPlz;
+      });
+    }
 
-    $.each(filteredContainers, function(index, container) {
-      if (container !== undefined){
-        for (var color in colorFilters){
-          if (colorFilters[color] && container.properties[color] === ""){
-            filteredContainers.splice(index, 1);
-          }
+    filteredContainers = _.filter(filteredContainers, function(container) {
+      for (var color in colorFilters){
+        if (colorFilters[color] && container.properties[color] === ""){
+          return false;
         }
       }
+      return true;
     });
-    filteredContainers = filteredContainers.filter(filterBySupplier);
+
+    if (filterSupplier !== ""){
+      filteredContainers = _.filter(filteredContainers, function(container) {
+        return container.properties.aufsteller === filterSupplier;
+      });
+    }
+
     addContainers(filteredContainers);
   }
 
