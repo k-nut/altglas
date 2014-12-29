@@ -48,9 +48,9 @@ $(document).ready(function() {
     var filterSupplier = $("#supplier").val();
 
 
-    var filteredContainers = [];
+    var filteredContainers = containers.features;
     if (filterPlz !== "-1"){
-      filteredContainers = _.filter(containers.features, function(container){
+      filteredContainers = _.filter(filteredContainers, function(container){
         return container.properties.plz === filterPlz;
       });
     }
