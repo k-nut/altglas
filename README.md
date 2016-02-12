@@ -2,7 +2,7 @@
 
 The map shows glass recycling containers spread across the city of Berlin.
 
-![Altglas Containers Map](https://raw2.github.com/k-nut/altglas/master/screenshot.png "Altglas Containers Map")
+![Altglas Containers Map](/screenshot.png "Altglas Containers Map")
 
 
 This project was started at the [Open Data Day 2014 in Berlin][opendataday-2014-berlin].
