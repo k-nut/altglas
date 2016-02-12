@@ -1,7 +1,6 @@
 /**
  * @license
- * lodash 4.3.0 (Custom Build) <https://lodash.com/>
- * Build: `lodash -o ./dist/lodash.js`
+ * lodash 4.3.0 <https://lodash.com/>
  * Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>
  * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
  * Copyright 2009-2016 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
